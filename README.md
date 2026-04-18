@@ -98,3 +98,7 @@ Important note:
 - `outputs/`: compare/replay/reports artifacts.
 - `mrd/`: project-local hardware descriptors.
 - `firmware_backups/`: binary restore points from board flash.
+
+## License
+
+See [LICENSE](./LICENSE).
